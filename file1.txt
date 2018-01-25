@@ -1,6 +1,6 @@
 line 1 - Branching tutorial
 
-line 2 - modify this line in bugfix branch
-line 3 - modify this line in master branch
+line 2 - Modify this line in feature1 branch
+line 3 - Modify this line in master branch
 
-line 4 - modify this line in different ways in both bugfix and master branches
+line 4 - Modify this line in different ways in both feature1 and master branches
