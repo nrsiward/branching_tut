@@ -1,0 +1,5 @@
+# On Windows, remember to set "git config --global core.eol=lf"
+#  and "git config --global core.autocrlf=input"
+
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
