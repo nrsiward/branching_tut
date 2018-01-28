@@ -1,6 +1,6 @@
 # Branching tutorial
 
-## Get your own copy of the repository-
+## Get your own copy of the repository
 1. In GitHub, fork [nrsiward/branching_tut](https://github.com/nrsiward/branching_tut) to your account
 2. Clone `branching_tut` from your account to your local disk
 
